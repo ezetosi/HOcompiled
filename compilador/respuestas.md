@@ -15,6 +15,8 @@ clasificar en 4:
 Ejecutando cada una de las instrucciones de `make` van a poder
 construir cada uno de los pasos intermedios.
 
+# DESARROLLO #
+
 1. Escriban qué esperan de cada uno de los pasos
 
 En la primera etapa, el del Pre-procesador se encarga de las directivas # como los includes y las macros. En este caso, incluye 
