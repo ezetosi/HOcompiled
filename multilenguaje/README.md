@@ -27,3 +27,6 @@ compilaron. Pueden hacer un `Makefile`. Si no quieren escribir un
 archivo de texto `reglas.txt` en cada subdirectorio en el que digan
 qué comandos usaron para compilar. En las reglas para compilar, tienen
 que estar diferenciados los pasos de compilación y linkeo.
+
+compilo como gcc c-main.c f-sum.f90  -o c-main.e
+
